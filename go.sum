@@ -1,2 +1,6 @@
-github.com/mathhaug/is105sem03_REP03 v0.0.0-20230420123013-3f53519734b9 h1:GdGKJl0KqbgoZdUZMW/pNvJ3H3GLyg5rU3lbT5nCgCQ=
-github.com/mathhaug/is105sem03_REP03 v0.0.0-20230420123013-3f53519734b9/go.mod h1:02RVlzGRGvaX6AvtXmwncUiusDPAVhCouFBcgARc1ic=
+github.com/mathhaug/funtemps v0.0.0-20230222022520-12780d46f56e h1:3VO660zf1MGlE8GUoxG2XMAKTTmQpYb3OIAI6Q3B/tk=
+github.com/mathhaug/funtemps v0.0.0-20230222022520-12780d46f56e/go.mod h1:rNz5kK4kWexlIQNc8IuX6B9TJA8HMxU8ZIeSpUPMiNw=
+github.com/mathhaug/is105sem03_REP03 v0.0.0-20230504014903-9f042d4f5774 h1:YuGonKg7DOgGqeFjueBVYiFQLvL3Iu4+0MU4RY+o36c=
+github.com/mathhaug/is105sem03_REP03 v0.0.0-20230504014903-9f042d4f5774/go.mod h1:02RVlzGRGvaX6AvtXmwncUiusDPAVhCouFBcgARc1ic=
+github.com/mathhaug/minyr v0.0.0-20230504012613-d882836a4834 h1:YLL5wuGs3lufapoDYYqYkzV00/KkgcXnChtubH7xyNw=
+github.com/mathhaug/minyr v0.0.0-20230504012613-d882836a4834/go.mod h1:o1QzMLeAvjxVx1ZXYHL4GK+YStqe5TkrlHTDyyNWil0=

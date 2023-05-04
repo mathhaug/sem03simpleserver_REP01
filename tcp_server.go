@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mathhaug/is105sem03/mycrypt"
+	"github.com/mathhaug/is105sem03_REP03/mycrypt"
 	"github.com/mathhaug/minyr/yr"
 )
 
@@ -15,7 +15,7 @@ func main() {
 
 	var wg sync.WaitGroup
 
-	server, err := net.Listen("tcp", "172.17.0.3:41391")
+	server, err := net.Listen("tcp", "172.17.0.4:41391")
 	if err != nil {
 		log.Fatal(err)
 	}
